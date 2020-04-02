@@ -99,4 +99,4 @@ See https://github.com/silverstripe/vendor-plugin
 
 Add `/node_modules` to .gitignore in the root
 
-`echo "/node_modules" >> .gitignore
+`echo "/node_modules" >> .gitignore`
