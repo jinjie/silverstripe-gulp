@@ -94,3 +94,9 @@ gulp.task('default', gulp.series('sass', 'browserify'));
 Need to expose the `dist` folder in the theme.
 
 See https://github.com/silverstripe/vendor-plugin
+
+### Update .gitignore
+
+Add `/node_modules` to .gitignore in the root
+
+`echo "/node_modules" >> .gitignore
